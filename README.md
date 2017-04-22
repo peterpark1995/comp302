@@ -1,3 +1,3 @@
-# comp322
-# comp302
-# comp302
+COMP 302 assignments
+
+The pdfs shows the questions completed for each assignment
